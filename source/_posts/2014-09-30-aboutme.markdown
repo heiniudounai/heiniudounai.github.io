@@ -1,0 +1,11 @@
+---
+layout: post
+title: "aboutme"
+date: 2014-09-30 17:30:46 +0800
+comments: true
+categories: 
+---
+##Who im I?
+一个Phper,ioser
+
+热爱php，yii，喜欢ios。爱打篮球，爱研究代码，努力提升自己得技术。

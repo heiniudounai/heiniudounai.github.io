@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://heiniudounai.github.io/sitemap.xml 

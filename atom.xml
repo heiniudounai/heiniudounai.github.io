@@ -4,7 +4,7 @@
   <title><![CDATA[黑牛]]></title>
   <link href="http://heiniudounai.github.io/atom.xml" rel="self"/>
   <link href="http://heiniudounai.github.io/"/>
-  <updated>2014-09-30T17:31:48+08:00</updated>
+  <updated>2014-09-30T17:37:18+08:00</updated>
   <id>http://heiniudounai.github.io/</id>
   <author>
     <name><![CDATA[heiniudounai]]></name>
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://heiniudounai.github.io/blog/2014/09/30/test/"/>
+    <updated>2014-09-30T17:37:07+08:00</updated>
+    <id>http://heiniudounai.github.io/blog/2014/09/30/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[aboutme]]></title>
-    <link href="http://heiniudounai.github.io/aboutme/"/>
+    <link href="http://heiniudounai.github.io/blog/2014/09/30/aboutme/"/>
     <updated>2014-09-30T17:30:46+08:00</updated>
-    <id>http://heiniudounai.github.io/aboutme</id>
+    <id>http://heiniudounai.github.io/blog/2014/09/30/aboutme</id>
     <content type="html"><![CDATA[<h2>Who im I?</h2>
 
 <p>一个Phper,ioser</p>
